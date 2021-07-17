@@ -7,7 +7,7 @@ is the file you need to edit to change the look of the
 theme.
 ---------------------------------------------------- */
 /*=====================================================================
-@Template Name: HostHub Construction 
+@Template Name: HostHub Construction
 @Developed By: Naim Lasker
 Author E-mail: naimlasker@gmail.com
 
@@ -64,13 +64,13 @@ button:focus {
 
 .p0 {
   padding-left: 0px;
-  padding-right: 0px; } 
+  padding-right: 0px; }
 
 #skillshead {
   font-size: 35px;
   font-weight: bold;
   text-align: center;
-}  
+}
 
 .white_bg {
   background: #fff !important; }
@@ -90,7 +90,7 @@ button:focus {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
-  padding: 100px 0; }
+  padding: 50px 0; }
   @media (max-width: 1199px) {
     .section_gap {
       padding: 80px 0; } }
@@ -114,7 +114,7 @@ button:focus {
   margin-bottom: 100px; }
   @media (max-width: 1199px) {
     .main_title {
-      margin-bottom: 50px; } }
+      margin-bottom: 30px; } }
   .main_title h2 {
     font-size: 36px;
     font-weight: 700;
@@ -363,7 +363,7 @@ button:focus {
           height: auto; } }
       @media (max-width: 991px) {
         .home_banner_area .banner_inner .home_right_img {
-          display: flex; 
+          display: flex;
            margin: 0px;
           padding: 0px;} }
     .home_banner_area .banner_inner .col-lg-7 {
@@ -2467,20 +2467,20 @@ h6 {
 /* Start Barand Area css
 ============================================================================================ */
 .brand_area {
-  padding-bottom: 170px; }
+  padding-bottom:40px; }
   @media (max-width: 1199px) {
     .brand_area {
-      padding-bottom: 80px; } }
+      padding-bottom: 40px; } }
 
 /* End Barand Area css
 ============================================================================================ */
 /* Start Features Area css
 ============================================================================================ */
 .features_area {
-  padding-bottom: 170px; }
+  padding-bottom: 30px; }
   @media (max-width: 1199px) {
     .features_area {
-      padding-bottom: 50px; } }
+      padding-bottom: 30px; } }
 
 .feature_item {
   padding: 45px 25px;
@@ -2616,10 +2616,10 @@ h6 {
 /* Start Portfolio Area css
 ============================================================================================ */
 .portfolio_area {
-  padding-bottom: 120px; }
+  padding-bottom: 60px; }
   @media (max-width: 991px) {
     .portfolio_area {
-      padding-bottom: 50px; } }
+      padding-bottom: 30px; } }
   .portfolio_area .filters ul {
     padding-left: 0;
     margin-bottom: 50px; }
@@ -3198,7 +3198,7 @@ h6 {
   /* Footer Area css
   ============================================================================================ */
   .footer-area {
-    padding: 70px 0px; }
+    padding: 40px 0px; }
 
   .news_widget {
     padding-left: 0 !important; }
@@ -3264,7 +3264,7 @@ h6 {
     content: none; }
 
 .footer_area {
-  padding: 120px 0;
+  padding: 40px 0;
   position: relative; }
   .footer_area:before {
     content: '';
